@@ -14,7 +14,7 @@ In this created structure, in any unusual situation that may occur on ProxyContr
 #### Sell Storage
 Sell Storage Contract contains the sell data. It is available only to the Read/Write authorization of the SellProxy contract.
 #### Fee Storage
-Fee Storage Contract contains the sell data. It is available only to the Read authorization of the SellProxy contract.
+Fee Storage Contract contains the fee data. It is available only to the Read authorization of the SellProxy contract.
 
 ### Proxy
 Sell Proxy undertakes the task of interpreting the data and methods in other related Contracts that do not contain any data on the Contract.
